@@ -1,1 +1,3 @@
-# Practica de Código
+# Practica de ejercicios de logica
+## Leetcode
+## Codeforces
